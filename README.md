@@ -17,6 +17,9 @@ The system uses the Python requests library to send data to ThingSpeak using HTT
 ## 📊 Output
 
 The output is visualized in ThingSpeak as graphs showing health data.
+## 📸 Output Screenshot
+
+![Output](Output-graph.png)
 
 ## 🚀 Applications
 
