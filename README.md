@@ -20,7 +20,7 @@ The output is visualized in ThingSpeak as graphs showing health data.
 
 ## 📸 Output Screenshot
 
-![Output](Output-graph.png)
+![Output](Screenshot 2026-04-16 211517.png)
 
 ## 🚀 Applications
 
