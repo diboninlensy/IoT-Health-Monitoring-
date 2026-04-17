@@ -20,6 +20,8 @@ The output is visualized in ThingSpeak as graphs showing health data.
 ## 📸 Output Screenshot
 
 ![Output](Output-graph.png)
+![Output](Output-graph 1.png)
+
 
 ## 🚀 Applications
 
