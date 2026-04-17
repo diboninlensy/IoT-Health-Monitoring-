@@ -1,8 +1,8 @@
-# IoT Health Monitoring System (ThingSpeak + Python)
+# IoT based-Health Monitoring System (ThingSpeak + Python)
 
 ## 📌 Project Description
 
-This project monitors health data using IoT concepts. It uses Python to send and receive data from the cloud platform ThingSpeak.
+This project is a simulation-based IoT health monitoring system developed using Python and ThingSpeak. It monitors health-related data and sends it to the cloud platform for visualization.
 
 ## 🛠️ Technologies Used
 
@@ -12,17 +12,34 @@ This project monitors health data using IoT concepts. It uses Python to send and
 
 ## ⚙️ Working
 
-The system uses the requests library in Python to send data to ThingSpeak using HTTP API. The data is stored in the cloud and displayed as graphs.
+The system uses the Python requests library to send data to ThingSpeak using HTTP API. The data is stored in the cloud and displayed as real-time graphs.
 
 ## 📊 Output
 
-The output is visualized in ThingSpeak as real-time graphs.
+The output is visualized in ThingSpeak as graphs showing health data.
+
+## 📸 Output Screenshot
+
+![Output](Output-graph.png)
 
 ## 🚀 Applications
 
 * Remote patient monitoring
-* Health data analysis
+* Health data tracking
+* IoT-based healthcare systems
 
 ## 🔮 Future Scope
 
-Can be connected with real sensors for live monitoring.
+This project can be extended by integrating real sensors like heart rate and temperature sensors for real-time monitoring.
+
+## ▶️ How to Run
+
+1. Install Python
+2. Install required library:
+   pip install requests
+3. Run the Python file:
+   python IoT Monitoring.py
+
+## 📌 Conclusion
+
+This project demonstrates how IoT and cloud platforms can be used for health monitoring applications.
